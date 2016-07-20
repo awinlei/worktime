@@ -3,10 +3,12 @@ worktime
 
 定位为项目管理，BUG管理。特点是容易安装，使用方便，界面简单友好。
 
+[使用 laravel 重新写的worktime2](https://github.com/aoktian/worktime2)
+
 序
 ----
 
-在做《大明浮生记》的时候，想找一个项目管理软件，使用了redmine、bugzilla等，感觉太大了，
+在做项目的时候，想找一个项目管理软件，使用了redmine、bugzilla等，感觉太大了，
 而且安装很不方便，大部分功能也不是我们想要的
 
 所以自己实现了这个，现在我们团队有20多个人，使用的很好。
